@@ -1,0 +1,8 @@
+# The professor's own files stay off the public site: keep the PDF, scans and photos on your computer.
+guide/*.pdf
+guide/*.jpg
+guide/*.jpeg
+guide/*.png
+guide/*.heic
+node_modules/
+.DS_Store
